@@ -1,2 +1,2 @@
 # sample-repo
-for studying git
+更新しました！！
